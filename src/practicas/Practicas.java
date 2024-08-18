@@ -18,6 +18,8 @@ public class Practicas {
         for (int i = 0; i < 10; i++) {
             System.out.println("**********");
         }
+        System.out.println("hola");
+        System.out.println("estas son practicas y va haber gui");
     }
     
 }
