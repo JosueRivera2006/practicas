@@ -15,6 +15,9 @@ public class Practicas {
      */
     public static void main(String[] args) {
         System.out.println("cambiando\ncodigo\nde\ngithub");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("**********");
+        }
     }
     
 }
