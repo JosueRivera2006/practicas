@@ -20,6 +20,7 @@ public class Practicas {
         }
         System.out.println("hola");
         System.out.println("estas son practicas y va haber gui");
+        System.out.println("cambiando");
     }
     
 }
